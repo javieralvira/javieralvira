@@ -22,4 +22,4 @@ I am particularly interested in the pragmatic application of AI to business prob
 - Applied Agentic AI for Organizational Transformation, MIT Professional Education
 
 # Connect
-- LinkedIn: https://www.linkedin.com/in/jalvira
+[Connect with me on LinkedIn](https://www.linkedin.com/in/jalvira)
