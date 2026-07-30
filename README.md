@@ -3,13 +3,14 @@
 -->
 # Javier Alvira
 International technology executive with 25 years of experience building, scaling, and transforming businesses across Europe, the Middle East, and Asia.
+[Connect with me on LinkedIn](https://www.linkedin.com/in/jalvira)
 
-# Selected experience:
+# Selected experience
 - Launched and scaled Amazon Marketplace in Spain into a multibillion-euro business.
 - Led Amazon Marketplace across the Middle East and North Africa, including the integration of Souq.com.
 - Led AWS Professional Services across six Southeast Asian markets, repositioning the business for profitable growth while delivering more than $50 million in annual bookings.
 
-# What I’m exploring:
+# What I’m exploring
 I am particularly interested in the pragmatic application of AI to business problems, including:
 - AI agents and voice-enabled customer experiences
 - Multilingual customer engagement
@@ -20,6 +21,3 @@ I am particularly interested in the pragmatic application of AI to business prob
 - MBA, Stanford Graduate School of Business (Fulbright Scholar)
 - Telecommunications Engineering, University of Seville
 - Applied Agentic AI for Organizational Transformation, MIT Professional Education
-
-# Connect
-[Connect with me on LinkedIn](https://www.linkedin.com/in/jalvira)
