@@ -1,9 +1,6 @@
-## Hi there 👋
-
 <!--
 **javieralvira/javieralvira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 # Javier Alvira
 International technology executive with 25 years of experience building, scaling, and transforming businesses across Europe, the Middle East, and Asia.
 
